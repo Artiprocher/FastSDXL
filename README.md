@@ -16,7 +16,7 @@ We provide a demo here:
 python launch.py
 ```
 
-## Efficnency
+## Efficiency
 
 I tested my code using NVidia 3060 laptop (6G, 85W). The resolution is 1024*1024, and the model is converted to float16 format.
 
